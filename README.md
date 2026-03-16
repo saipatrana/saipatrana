@@ -24,5 +24,5 @@
 
 ### 🔗 Connect with me
 - GitHub: https://github.com/saipatrana
-- LinkedIn: https://linkedin.com/in/sai patrana
+- LinkedIn: https://www.linkedin.com/in/sai-patrana/
  
