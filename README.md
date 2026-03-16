@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Patrana
 
-<!--
-**saipatrana/saipatrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 SoftWare Developer | Data Analyst | Power BI Learner
 
-Here are some ideas to get you started:
+📧 Email: saipatrana@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🌱 I’m currently learning **Java, Power BI**
+- 👨‍💻 Interested in **Data Analysis & Software Development**
+- 🤝 Open for **Internships & Collaboration**
+
+---
+
+### 🛠 Skills
+- Java
+- Python
+- SQL
+- Power BI
+- Excel
+
+---
+
+### 🔗 Connect with me
+- GitHub: https://github.com/saipatrana
+- LinkedIn: https://linkedin.com/in/sai patrana
+ 
