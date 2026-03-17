@@ -100,7 +100,7 @@
 
 ## ✍️ Developer Quote
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=I%E2%80%99m+not+a+great+programmer;+I%E2%80%99m+just+a+good+programmer+with+great+habits+—+Kent+Beck)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=I’m%20not%20a%20great%20programmer;%20I’m%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck)
 
 
 
