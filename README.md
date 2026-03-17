@@ -95,8 +95,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Saipatrana&theme=radical&no-frame=false&no-bg=false&margin-w=10&row=2&column=4)
 
 
-![](https://github-profile-trophy.vercel.app/?username=Saipatrana&theme=radical&no-frame=false&margin-w=10&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Experience)
-
 
 
 ## ✍️ Random Dev Quote
