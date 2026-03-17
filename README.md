@@ -98,9 +98,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Saipatrana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-## ✍️ Random Dev Quote
+## ✍️ Developer Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=I%E2%80%99m+not+a+great+programmer;+I%E2%80%99m+just+a+good+programmer+with+great+habits+—+Kent+Beck)
 
 
 
