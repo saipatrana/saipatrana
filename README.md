@@ -25,6 +25,8 @@
  🔗 Connect with me
 - GitHub: https://github.com/saipatrana
 - LinkedIn: https://www.linkedin.com/in/sai-patrana/
+
+  
    [![Watch Video](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
@@ -68,7 +70,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
 
