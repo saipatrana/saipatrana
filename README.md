@@ -88,11 +88,11 @@
 
 
  [![Watch Video](https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)](https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
-
+ 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Saipatrana&theme=radical&no-frame=false&no-bg=false&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Saipatrana&theme=radical&no-frame=false&no-bg=false&margin-w=10&row=2&column=4)
 
 
 
