@@ -68,7 +68,7 @@
 
 
 
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 
 
