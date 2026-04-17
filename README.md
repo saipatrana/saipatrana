@@ -95,9 +95,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saipatrana&theme=radical&no-bg=false&margin-w=10" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=saipatrana&theme=radical&no-bg=false&margin-w=10)
 
 
 ## ✍️ Developer Quote
