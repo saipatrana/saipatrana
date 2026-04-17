@@ -93,11 +93,11 @@
 
  
 
-
-
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Saipatrana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saipatrana&theme=radical&no-bg=false&margin-w=10" />
+</p>
 
 
 ## ✍️ Developer Quote
