@@ -2,7 +2,7 @@
 
 💻 SoftWare Developer | Data Analyst | Power BI Learner
 
-📧 Email: saipatrana@gmail.com
+📧 Email: saipatrana0902@gmail.com
 
 ---
 
